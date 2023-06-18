@@ -13,6 +13,8 @@ Based on three inputs student intersted in which are College , Domain and Field.
 ![home](https://github.com/Nuf1i/Graduation-AI-Ideas/blob/main/preview/home.png)
 
 ![form](https://github.com/Nuf1i/Graduation-AI-Ideas/blob/main/preview/Generate%20ideas.png)
+
 ![ideas](https://github.com/Nuf1i/Graduation-AI-Ideas/blob/main/preview/saving.png)
+
 ![plans](https://github.com/Nuf1i/Graduation-AI-Ideas/blob/main/preview/plans.png)
   
